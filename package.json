@@ -1,0 +1,14 @@
+{
+  "name": "reto_2",
+  "version": "1.0.0",
+  "description": "Ejercicios Basicos en Javascript - Reto 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "node src/app.js"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Kevin Martinez",
+  "license": "ISC"
+}
