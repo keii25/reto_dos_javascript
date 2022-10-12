@@ -5,7 +5,7 @@ Ejercicios de aprendizaje en el lenguaje de programación Javascript, orientado 
 
 ## Instalación de nodejs
 
-Necsita instalar nodejs en su equipo desde la web oficial de [Node](https://nodejs.org/es/)
+Necesita instalar nodejs en su equipo desde la web oficial de [Node](https://nodejs.org/es/)
 
 ## Correr el aplicativo
 
