@@ -4,8 +4,10 @@ let personajesHOD = [
     'Viserys', 
     'Alicent'
 ];
-
+/** 
 for (let i = 0; i < personajesHOD.length; i++) {
-    // Mostrar lista de personajes
     console.log(`${i + 1} ${personajesHOD[i]}`);
 }
+*/
+
+personajesHOD.forEach((personaje, index) => console.log(`${index + 1} ${personaje}`));
